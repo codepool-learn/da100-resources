@@ -1,1 +1,1 @@
-# Resources for the Microsoft Da-100 Course (Data Analyst Associate)
+# Resources for the Microsoft DA-100 Course (Data Analyst Associate)
