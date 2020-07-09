@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bba608c0-de0c-4d8e-b4ea-64464e8ea897</dc:identifier>
+        <dc:title>Exam Ref 70-778 Analyzing and Visualizing Data by Using Microsoft Power BI</dc:title>
+        <dc:creator opf:file-as="Maslyuk, Daniil" opf:role="aut">Daniil Maslyuk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-11T23:00:00+00:00</dc:date>
+        <dc:publisher>Pearson Education</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07DLCT6SC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Daniil Maslyuk&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-06-03T06:13:36.884000+00:00" name="calibre:timestamp"/>
+        <meta content="Exam Ref 70-778 Analyzing and Visualizing Data by Using Microsoft Power BI" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
